@@ -1,80 +1,80 @@
 # Samuel Eli
 
-**Analista de Sistemas · Administrador de Infraestrutura · Desenvolvedor**
+**Systems Analyst · Infrastructure Administrator · Developer**
 
 ---
 
-Sou um profissional de TI com foco em infraestrutura de servidores, redes e desenvolvimento de software. Trabalho com soluções de código aberto em ambiente corporativo e desenvolvo aplicações mobile voltadas à área da saúde.
+IT professional focused on server infrastructure, networking, and software development. I work with open-source solutions in corporate environments and build mobile applications for the healthcare industry.
 
 ---
 
-## Habilidades
+## Skills
 
-### Infraestrutura & Sysadmin
+### Infrastructure & Sysadmin
 
-| Habilidade | Nível |
+| Skill | Level |
 |---|---|
 | Linux (Ubuntu Server / SSH / Bash) | ![90%](https://geps.dev/progress/90) |
-| Docker & Containerização | ![85%](https://geps.dev/progress/85) |
+| Docker & Containerization | ![85%](https://geps.dev/progress/85) |
 | Active Directory / LDAP | ![80%](https://geps.dev/progress/80) |
-| Apache / Nginx (Web & Proxy) | ![80%](https://geps.dev/progress/80) |
+| Apache / Nginx (Web & Reverse Proxy) | ![80%](https://geps.dev/progress/80) |
 | MySQL / MariaDB | ![75%](https://geps.dev/progress/75) |
 | Nextcloud Hub | ![85%](https://geps.dev/progress/85) |
-| GLPI (Chamados & Inventário) | ![80%](https://geps.dev/progress/80) |
-| Redes & Monitoramento | ![75%](https://geps.dev/progress/75) |
+| GLPI (Helpdesk & Inventory) | ![80%](https://geps.dev/progress/80) |
+| Networking & Monitoring | ![75%](https://geps.dev/progress/75) |
 | TURN / STUN (WebRTC) | ![65%](https://geps.dev/progress/65) |
 
-### Desenvolvimento
+### Development
 
-| Habilidade | Nível |
+| Skill | Level |
 |---|---|
-| Flutter / Dart | ![70%](https://geps.dev/progress/70) |
-| PHP | ![65%](https://geps.dev/progress/65) |
-| HTML / CSS | ![70%](https://geps.dev/progress/70) |
-| SQL | ![75%](https://geps.dev/progress/75) |
 | Bash / Shell Scripting | ![80%](https://geps.dev/progress/80) |
-| Integração de APIs & Webhooks | ![75%](https://geps.dev/progress/75) |
-| LocalAI / IA em ambiente corporativo | ![60%](https://geps.dev/progress/60) |
+| SQL | ![75%](https://geps.dev/progress/75) |
+| Flutter / Dart | ![70%](https://geps.dev/progress/70) |
+| HTML / CSS | ![70%](https://geps.dev/progress/70) |
+| PHP | ![65%](https://geps.dev/progress/65) |
+| API Integration & Webhooks | ![75%](https://geps.dev/progress/75) |
+| LocalAI / AI in corporate environments | ![60%](https://geps.dev/progress/60) |
 
 ---
 
-## Infraestrutura & Sysadmin
+## Infrastructure & Sysadmin
 
-- **Servidores Linux** — Ubuntu Server, administração via SSH, shell scripting (Bash)
-- **Containerização** — Docker, deploy e gerenciamento de ambientes
-- **Active Directory** — Integração LDAP, gerenciamento de usuários e políticas de grupo
-- **Apache / Nginx** — Configuração de servidores web e proxy reverso
-- **MySQL / MariaDB** — Administração e queries SQL
-- **Nextcloud Hub** — Implantação, customização e integração com LDAP/AD
-- **GLPI** — Sistema de chamados, inventário e customizações via plugin
-- **TURN/STUN** — Configuração de servidores para comunicação em tempo real (WebRTC)
-- **Redes** — Administração e monitoramento de infraestrutura de rede corporativa
-
----
-
-## Desenvolvimento
-
-- **Flutter / Dart** — Aplicativo mobile para avaliação fonoaudiológica (ADL Fono)
-- **PHP** — Desenvolvimento e customização de sistemas web
-- **HTML / CSS** — Interfaces web
-- **Integrações via API** — WhatsApp (Evolution API), webhooks e automações
-- **LocalAI** — Integração de modelos de IA em ambientes corporativos
+- **Linux Servers** — Ubuntu Server, SSH administration, shell scripting (Bash)
+- **Containerization** — Docker, deployment and environment management
+- **Active Directory** — LDAP integration, user and group policy management
+- **Apache / Nginx** — Web server and reverse proxy configuration
+- **MySQL / MariaDB** — Database administration and SQL queries
+- **Nextcloud Hub** — Deployment, customization, and LDAP/AD integration
+- **GLPI** — Helpdesk ticketing, inventory management, and plugin customization
+- **TURN/STUN** — Real-time communication server setup (WebRTC)
+- **Networking** — Corporate network administration and monitoring
 
 ---
 
-## Ferramentas
+## Development
+
+- **Flutter / Dart** — Mobile app for speech-language pathology assessment (ADL Fono)
+- **PHP** — Web system development and customization
+- **HTML / CSS** — Web interfaces
+- **API Integrations** — WhatsApp (Evolution API), webhooks, and automation
+- **LocalAI** — AI model integration in corporate environments
+
+---
+
+## Tools
 
 `Ubuntu Server` `Docker` `Apache` `MySQL` `Nextcloud` `GLPI` `Active Directory` `VS Code` `GitHub` `Flutter` `PHP` `Bash`
 
 ---
 
-## Projeto em destaque
+## Featured Project
 
-**[ADL Fono](https://github.com/selds/adl_fono)** — Aplicativo para avaliação do Desenvolvimento da Linguagem (ADL), voltado a fonoaudiólogos. Desenvolvido em Flutter com acesso facilitado via web.
+**[ADL Fono](https://github.com/selds/adl_fono)** — Application for Language Development Assessment (ADL), designed for speech-language pathologists. Built with Flutter and accessible via web.
 
 ---
 
-## Contato
+## Contact
 
 - Telegram: [@selds](https://t.me/selds)
 - Instagram: [@_selds](https://instagram.com/_selds)
