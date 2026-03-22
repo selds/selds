@@ -1,14 +1,37 @@
-# Samuel Eli
+# Hi, I'm Samuel Eli 👋
 
-**Systems Analyst · Infrastructure Administrator · Developer**
-
----
-
-IT professional focused on server infrastructure, networking, and software development. I work with open-source solutions in corporate environments and build mobile applications for the healthcare industry.
+> *Systems Analyst · Infrastructure Administrator · Developer*
 
 ---
 
-## Skills
+## ⚙️ About Me
+
+<table>
+<tr>
+<td valign="top" width="60%">
+
+I'm an IT professional from Maranhão, Brazil, focused on **server infrastructure**, **open-source solutions**, and **mobile development**. I manage corporate environments using tools like Nextcloud, GLPI, Docker, and Active Directory, while also building healthcare applications with Flutter.
+
+Currently working on **[ADL Fono](https://github.com/selds/adl_fono)** — a mobile app for speech-language pathology assessment.
+
+</td>
+<td valign="top" width="40%" align="right">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=selds&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/selds)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selds&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/selds)
+
+---
+
+## 🛠️ Skills
 
 ### Infrastructure & Sysadmin
 
@@ -38,47 +61,27 @@ IT professional focused on server infrastructure, networking, and software devel
 
 ---
 
-## Infrastructure & Sysadmin
+## 📦 Tech Stack
 
-- **Linux Servers** — Ubuntu Server, SSH administration, shell scripting (Bash)
-- **Containerization** — Docker, deployment and environment management
-- **Active Directory** — LDAP integration, user and group policy management
-- **Apache / Nginx** — Web server and reverse proxy configuration
-- **MySQL / MariaDB** — Database administration and SQL queries
-- **Nextcloud Hub** — Deployment, customization, and LDAP/AD integration
-- **GLPI** — Helpdesk ticketing, inventory management, and plugin customization
-- **TURN/STUN** — Real-time communication server setup (WebRTC)
-- **Networking** — Corporate network administration and monitoring
-
----
-
-## Development
-
-- **Flutter / Dart** — Mobile app for speech-language pathology assessment (ADL Fono)
-- **PHP** — Web system development and customization
-- **HTML / CSS** — Web interfaces
-- **API Integrations** — WhatsApp (Evolution API), webhooks, and automation
-- **LocalAI** — AI model integration in corporate environments
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=flat-square&logo=nextcloud&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-## Tools
+## 🔗 Connect
 
-`Ubuntu Server` `Docker` `Apache` `MySQL` `Nextcloud` `GLPI` `Active Directory` `VS Code` `GitHub` `Flutter` `PHP` `Bash`
-
----
-
-## Featured Project
-
-**[ADL Fono](https://github.com/selds/adl_fono)** — Application for Language Development Assessment (ADL), designed for speech-language pathologists. Built with Flutter and accessible via web.
+[![Telegram](https://img.shields.io/badge/Telegram-@selds-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/selds)
+[![Instagram](https://img.shields.io/badge/Instagram-@_selds-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_selds)
 
 ---
 
-## Contact
-
-- Telegram: [@selds](https://t.me/selds)
-- Instagram: [@_selds](https://instagram.com/_selds)
-
----
-
-*"Sic Parvis Magna"*
+<p align="center"><i>"Sic Parvis Magna"</i></p>
