@@ -8,6 +8,36 @@ Sou um profissional de TI com foco em infraestrutura de servidores, redes e dese
 
 ---
 
+## Habilidades
+
+### Infraestrutura & Sysadmin
+
+| Habilidade | Nível |
+|---|---|
+| Linux (Ubuntu Server / SSH / Bash) | ![90%](https://geps.dev/progress/90) |
+| Docker & Containerização | ![85%](https://geps.dev/progress/85) |
+| Active Directory / LDAP | ![80%](https://geps.dev/progress/80) |
+| Apache / Nginx (Web & Proxy) | ![80%](https://geps.dev/progress/80) |
+| MySQL / MariaDB | ![75%](https://geps.dev/progress/75) |
+| Nextcloud Hub | ![85%](https://geps.dev/progress/85) |
+| GLPI (Chamados & Inventário) | ![80%](https://geps.dev/progress/80) |
+| Redes & Monitoramento | ![75%](https://geps.dev/progress/75) |
+| TURN / STUN (WebRTC) | ![65%](https://geps.dev/progress/65) |
+
+### Desenvolvimento
+
+| Habilidade | Nível |
+|---|---|
+| Flutter / Dart | ![70%](https://geps.dev/progress/70) |
+| PHP | ![65%](https://geps.dev/progress/65) |
+| HTML / CSS | ![70%](https://geps.dev/progress/70) |
+| SQL | ![75%](https://geps.dev/progress/75) |
+| Bash / Shell Scripting | ![80%](https://geps.dev/progress/80) |
+| Integração de APIs & Webhooks | ![75%](https://geps.dev/progress/75) |
+| LocalAI / IA em ambiente corporativo | ![60%](https://geps.dev/progress/60) |
+
+---
+
 ## Infraestrutura & Sysadmin
 
 - **Servidores Linux** — Ubuntu Server, administração via SSH, shell scripting (Bash)
