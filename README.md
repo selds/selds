@@ -17,7 +17,7 @@ Currently working on **[ADL Fono](https://github.com/selds/adl_fono)** — a mob
 </td>
 <td valign="top" width="40%" align="right">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=selds&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/selds)
+<img src="https://github-readme-stats.vercel.app/api?username=selds&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
 
 </td>
 </tr>
@@ -27,7 +27,7 @@ Currently working on **[ADL Fono](https://github.com/selds/adl_fono)** — a mob
 
 ## 🚀 Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selds&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/selds)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selds&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Langs" />
 
 ---
 
@@ -63,25 +63,14 @@ Currently working on **[ADL Fono](https://github.com/selds/adl_fono)** — a mob
 
 ## 📦 Tech Stack
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=flat-square&logo=nextcloud&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=flat-square&logo=nextcloud&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
 ## 🔗 Connect
 
-[![Telegram](https://img.shields.io/badge/Telegram-@selds-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/selds)
-[![Instagram](https://img.shields.io/badge/Instagram-@_selds-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_selds)
+[![Telegram](https://img.shields.io/badge/Telegram-@selds-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/selds) [![Instagram](https://img.shields.io/badge/Instagram-@_selds-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_selds)
 
 ---
 
-<p align="center"><i>"Sic Parvis Magna"</i></p>
+_"Sic Parvis Magna"_
