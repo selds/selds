@@ -20,7 +20,6 @@
 ```yaml
 whoami:
   name: Samuel Eli
-  location: Maranhão, Brazil
   role: IT Infrastructure Engineer & Full-Stack Developer
   focus:
     - Server infrastructure & Linux administration
