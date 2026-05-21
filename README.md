@@ -68,6 +68,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=selds&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selds&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
@@ -95,17 +96,22 @@
 
 ## Projects
 
-<div align="center">
-  <a href="https://github.com/selds/adl_fono">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=selds&repo=adl_fono&theme=tokyonight&hide_border=true" alt="adl_fono" />
-  </a>
-</div>
+### adl\_fono
+
+> Projeto de implementação do ADL (Avaliação do Desenvolvimento da Linguagem) com acesso facilitado via web.
+
+<p>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/github/last-commit/selds/adl_fono?style=for-the-badge&color=6e40c9" />
+  <a href="https://github.com/selds/adl_fono"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github" /></a>
+</p>
 
 ### Other Projects
 
 | Project | Description | Tech |
 |---|---|---|
-| **portal_hums** | Internal hospital portal system | Dart / Flutter |
+| **portal\_hums** | Internal hospital portal system | Dart / Flutter |
 | **rifa-online** | Online raffle platform | JavaScript |
 | **logica-js-projeto-inicial** | JavaScript fundamentals coursework | HTML / JS |
 
