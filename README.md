@@ -67,9 +67,17 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=selds&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=selds&theme=tokyonight" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=selds&theme=tokyonight" alt="Repos Per Language" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selds&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=selds&theme=tokyonight" alt="Most Commit Language" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=selds&theme=tokyonight" alt="Stats" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=selds&theme=tokyonight&utcOffset=-3" alt="Productive Time" />
 </div>
 
 <div align="center">
@@ -81,7 +89,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/selds/selds/raw/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+  <img src="https://raw.githubusercontent.com/selds/selds/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 </div>
 
 ---
