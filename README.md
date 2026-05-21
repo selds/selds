@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white" alt="Nextcloud" />
-  <img src="https://img.shields.io/badge/GLPI-003087?style=for-the-badge&logo=data:image/png;base64,&logoColor=white" alt="GLPI" />
+  <img src="https://img.shields.io/badge/GLPI-003087?style=for-the-badge&logoColor=white" alt="GLPI" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
@@ -67,8 +67,8 @@
 ## GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=selds&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selds&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=selds&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selds&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -99,10 +99,15 @@
   <a href="https://github.com/selds/adl_fono">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=selds&repo=adl_fono&theme=tokyonight&hide_border=true" alt="adl_fono" />
   </a>
-  <a href="https://github.com/selds/rifa-online">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=selds&repo=rifa-online&theme=tokyonight&hide_border=true" alt="rifa-online" />
-  </a>
 </div>
+
+### Other Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| **portal_hums** | Internal hospital portal system | Dart / Flutter |
+| **rifa-online** | Online raffle platform | JavaScript |
+| **logica-js-projeto-inicial** | JavaScript fundamentals coursework | HTML / JS |
 
 ---
 
