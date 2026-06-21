@@ -1,60 +1,38 @@
-# selds
+# Olá, sou o Samuel! 🚀
 
-![Focus](https://img.shields.io/badge/focus-backend%20%7C%20infra%20%7C%20full--stack-0a0a0a?style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**Analista de Sistemas | Infraestrutura & Soluções em TI**
 
-Developer focused on backend, infrastructure, integrations, and full-stack systems.
+Transformando necessidades complexas em infraestrutura ágil e segura. Atuo na gestão de ambientes tecnológicos corporativos, com foco em garantir alta disponibilidade de sistemas críticos, otimização de recursos e um suporte técnico de excelência.
 
-## About
+### 🚀 Sobre Mim
 
-Hands-on experience building and maintaining internal platforms, APIs, containerized environments, database operations, and production infrastructure. Work spans software delivery, systems administration, service integration, and operational reliability.
+- 🎯 **Foco em Resolução e ITSM:** Especialista em mapear gargalos operacionais e estruturar o ciclo de vida de serviços. Implemento fluxos lógicos, automações e matrizes de SLA/urgência utilizando o **GLPI**.
+- 🔐 **Gestão de Nuvem Corporativa:** Atuação direta na manutenção, segurança e migração de servidores e ecossistemas colaborativos de grande porte, como o **Nextcloud**.
+- 🖥️ **Ambientes Híbridos e SOs:** Experiência prática na administração, suporte e virtualização de múltiplas plataformas, dominando ecossistemas Linux (Ubuntu Server, Zorin OS) e infraestrutura Windows.
+- 💡 **Melhoria Contínua:** Sempre em busca da máxima performance e estabilidade de rede, englobando desde ajustes finos de hardware e BIOS até configurações avançadas em servidores web (Nginx).
 
-## Stack
+---
 
-**Languages**  
-JavaScript · TypeScript · Dart · Python · PHP · Bash · PowerShell
+### 💻 Stack Tecnológico
 
-**Frontend / Mobile**  
-Flutter · Web applications · Responsive interfaces
+| Sistemas Operacionais | Infra e Plataformas | IDEs e Ferramentas |
+| :--- | :--- | :--- |
+| ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) | ![GLPI](https://img.shields.io/badge/GLPI-2A4158?style=flat-square&logo=glpi&logoColor=white) | ![JetBrains](https://img.shields.io/badge/JetBrains_Ultimate-000000?style=flat-square&logo=jetbrains&logoColor=white) |
+| ![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows-11&logoColor=white) | ![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=flat-square&logo=nextcloud&logoColor=white) | ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white) |
+| ![Zorin OS](https://img.shields.io/badge/Zorin_OS-0E659A?style=flat-square&logo=zorin&logoColor=white) | ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
-**Backend**  
-Node.js · REST APIs · Authentication flows · Service integrations
+---
 
-**Databases**  
-PostgreSQL · MySQL · Migrations · Query optimization
+### 📈 Estatísticas do GitHub
 
-**Infrastructure**  
-Docker · Linux · Apache · Nginx · Deployment workflows
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selds&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Linguagens mais usadas" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=selds&show_icons=true&theme=vision-friendly-dark&hide_border=true&hide_rank=true" alt="Estatísticas gerais" height="150" />
+</p>
 
-**Tools**  
-Git · Firebase · Prisma · CLI automation
+---
 
-## Experience
+### 📫 Como me encontrar
 
-- Full-stack development of internal portals and business systems
-- REST API design, integration, and maintenance
-- Multi-service Docker deployments and environment orchestration
-- Linux server administration and web server configuration
-- Database maintenance, migration, recovery, and optimization
-- GLPI administration and customization
-- Nextcloud environment setup and maintenance
-- Messaging and communication integrations, including WhatsApp and SIP/VoIP
-- Automation scripts for operational and deployment routines
-- Support for enterprise infrastructure and service continuity
-
-## Current Focus
-
-- Software architecture
-- DevOps and automation
-- API integration
-- Infrastructure reliability
-- Database performance
-- Web and mobile applications
-
-## Approach
-
-Building maintainable systems with practical architecture, clean integrations, and reliable infrastructure.
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/selds)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_selds)
