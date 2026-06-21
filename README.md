@@ -15,11 +15,11 @@ Transformando necessidades complexas em infraestrutura ágil e segura. Atuo na g
 
 ### 💻 Stack Tecnológico
 
-| Sistemas Operacionais | Infra e Plataformas | IDEs e Ferramentas |
+| Gestão & Processos | Infra e Plataformas | Hardware & Suporte |
 | :--- | :--- | :--- |
-| ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) | ![GLPI](https://img.shields.io/badge/GLPI-2A4158?style=flat-square&logo=glpi&logoColor=white) | ![JetBrains](https://img.shields.io/badge/JetBrains_Ultimate-000000?style=flat-square&logo=jetbrains&logoColor=white) |
-| ![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows-11&logoColor=white) | ![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=flat-square&logo=nextcloud&logoColor=white) | ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white) |
-| ![Zorin OS](https://img.shields.io/badge/Zorin_OS-0E659A?style=flat-square&logo=zorin&logoColor=white) | ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![ITSM](https://img.shields.io/badge/ITSM_&_SLA-0052CC?style=flat-square) | ![GLPI](https://img.shields.io/badge/GLPI-2A4158?style=flat-square&logo=glpi&logoColor=white) | ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-D22B2B?style=flat-square) |
+| ![Fluxogramas](https://img.shields.io/badge/Fluxogramas_Lógicos-217346?style=flat-square) | ![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=flat-square&logo=nextcloud&logoColor=white) | ![Hardware e BIOS](https://img.shields.io/badge/Hardware_&_BIOS-4A4A4A?style=flat-square) |
+| ![Matrizes](https://img.shields.io/badge/Matrizes_de_Prioridade-B7472A?style=flat-square) | ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) | ![Suporte Técnico](https://img.shields.io/badge/Suporte_Técnico-008080?style=flat-square) |
 
 ---
 
@@ -35,4 +35,4 @@ Transformando necessidades complexas em infraestrutura ágil e segura. Atuo na g
 ### 📫 Como me encontrar
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/selds)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_selds)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white)](https://threads.net/_selds)
