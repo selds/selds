@@ -18,16 +18,16 @@ Transformando necessidades complexas em infraestrutura ágil e segura. Atuo na g
 | Gestão & Processos | Infra e Plataformas | Hardware & Suporte |
 | :---- | :---- | :---- |
 | [![ITSM](https://img.shields.io/badge/ITSM_&_SLA-0052CC?style=flat-square)](https://img.shields.io/badge/ITSM_&_SLA-0052CC?style=flat-square) | [![GLPI](https://img.shields.io/badge/GLPI-2A4158?style=flat-square&logo=glpi&logoColor=white)](https://img.shields.io/badge/GLPI-2A4158?style=flat-square&logo=glpi&logoColor=white) | [![Troubleshooting](https://img.shields.io/badge/Troubleshooting-D22B2B?style=flat-square)](https://img.shields.io/badge/Troubleshooting-D22B2B?style=flat-square) |
-| [![Fluxogramas](https://img.shields.io/badge/Fluxogramas_Lógicos-217346?style=flat-square)](https://img.shields.io/badge/Fluxogramas_Lógicos-217346?style=flat-square) | [![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=flat-square&logo=nextcloud&logoColor=white)](https://img.shields.io/badge/Nextcloud-0082C9?style=flat-square&logo=nextcloud&logoColor=white) | [![Hardware e BIOS](https://img.shields.io/badge/Hardware_&_BIOS-4A4A4A?style=flat-square)](https://img.shields.io/badge/Hardware_&_BIOS-4A4A4A?style=flat-square) |
-| [![Matrizes](https://img.shields.io/badge/Matrizes_de_Prioridade-B7472A?style=flat-square)](https://img.shields.io/badge/Matrizes_de_Prioridade-B7472A?style=flat-square) | [![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) | [![Suporte Técnico](https://img.shields.io/badge/Suporte_Técnico-008080?style=flat-square)](https://img.shields.io/badge/Suporte_Técnico-008080?style=flat-square) |
+| [![Fluxogramas](https://img.shields.io/badge/Fluxogramas_L%C3%B3gicos-217346?style=flat-square)](https://img.shields.io/badge/Fluxogramas_L%C3%B3gicos-217346?style=flat-square) | [![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=flat-square&logo=nextcloud&logoColor=white)](https://img.shields.io/badge/Nextcloud-0082C9?style=flat-square&logo=nextcloud&logoColor=white) | [![Hardware e BIOS](https://img.shields.io/badge/Hardware_%26_BIOS-4A4A4A?style=flat-square)](https://img.shields.io/badge/Hardware_%26_BIOS-4A4A4A?style=flat-square) |
+| [![Matrizes](https://img.shields.io/badge/Matrizes_de_Prioridade-B7472A?style=flat-square)](https://img.shields.io/badge/Matrizes_de_Prioridade-B7472A?style=flat-square) | [![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) | [![Suporte Técnico](https://img.shields.io/badge/Suporte_T%C3%A9cnico-008080?style=flat-square)](https://img.shields.io/badge/Suporte_T%C3%A9cnico-008080?style=flat-square) |
 
 ---
 
 ### 📈 Estatísticas do GitHub
 
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=selds&layout=compact&theme=vision-friendly-dark&hide_border=true&cache_seconds=86400)](https://github.com/selds)
+![Linguagens mais usadas](assets/top-langs.svg)
 
-[![Estatísticas gerais](https://github-readme-stats.vercel.app/api?username=selds&show_icons=true&theme=vision-friendly-dark&hide_border=true&hide_rank=true&cache_seconds=86400)](https://github.com/selds)
+![Estatísticas gerais](assets/stats.svg)
 
 ---
 
